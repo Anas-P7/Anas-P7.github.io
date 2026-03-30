@@ -24,10 +24,10 @@ Through academic and personal projects, I have developed client-server applicati
 - SQL & Database Management System
 - Web Development
 - PHP
+- 
+## 🎥 Mock Interview Video
 
-## Mock Interview Video
-[![YouTube](https://img.icons8.com/color/48/youtube-play.png)]
-Link:https://youtu.be/_brsj-MSmng?si=pT8W2WQo5kUvKbD-
+[![YouTube](https://img.icons8.com/color/48/youtube-play.png)](https://youtu.be/_brsj-MSmng)
 
 ## 📞Contact
 Email: 230195342@mycput.ac.za
