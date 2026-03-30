@@ -1,4 +1,4 @@
-# Anas Pansari
+# 📍Digital Portfolio: Anas Pansari
 ## 👤About Me
 I am a third year student who is currently studying a diploma in ICT Applications Development.Through my experience I have developed a strong foundation in software development and systems design. I am passionate about developing reliable, scalable and user-focused solutions that addresses real-world challenges.
 Through academic and personal projects, I have developed client-server applications, web-based systems, and structured software solutions that demonstrate analytical thinking and clean code practices.
