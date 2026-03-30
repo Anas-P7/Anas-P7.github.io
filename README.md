@@ -32,3 +32,6 @@ Created a full online store with authentication and checkout system.Applied best
 ## Contact
 Email: 230195342@mycput.ac.za
 LinkedIn: https://www.linkedin.com/in/anas-pansari-0415382b9/
+
+[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/anas-pansari-0415382b9/)
+![IntelliJ](https://img.icons8.com/color/48/intellij-idea.png)
