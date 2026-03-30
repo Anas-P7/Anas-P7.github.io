@@ -27,7 +27,9 @@ Through academic and personal projects, I have developed client-server applicati
 - 
 ## 🎥 Mock Interview Video
 
-[![YouTube](https://img.icons8.com/color/48/youtube-play.png)](https://youtu.be/_brsj-MSmng) Watch My Video Here:(https://youtu.be/_brsj-MSmng) https://youtu.be/_brsj-MSmng
+<a href="https://youtu.be/_brsj-MSmng?si=pT8W2WQo5kUvKbD-" style="text-decoration:none; color:inherit;">
+  Watch my video
+</a>
 
 ## 📞Contact
 Email: 230195342@mycput.ac.za
