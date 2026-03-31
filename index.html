@@ -8,7 +8,8 @@
 <style>
 :root{
     --primary:#111827;
-    --accent:#2563eb;
+    --accent:#f97316;
+    --accent-soft:#fff7ed;
     --text:#1f2937;
     --muted:#6b7280;
     --light:#f3f4f6;
@@ -24,10 +25,15 @@ body{
     line-height:1.6;
 }
 
+/* HEADER BOX */
 header{
-    text-align:center;
+    background:var(--accent-soft);
     padding:50px 20px;
-    border-bottom:3px solid var(--accent);
+    border-radius:18px;
+    text-align:center;
+    margin-bottom:40px;
+    border:2px solid var(--accent);
+    box-shadow:0 10px 30px rgba(249,115,22,0.15);
 }
 
 header h1{
@@ -43,27 +49,29 @@ header p{
     font-size:0.95rem;
 }
 
+
 h2{
     margin-top:50px;
     font-size:0.9rem;
     text-transform:uppercase;
     letter-spacing:2px;
     color:var(--accent);
-    border-bottom:1px solid #e5e7eb;
+    border-bottom:2px solid #fed7aa;
     padding-bottom:10px;
 }
 
+
 .card{
     background:#ffffff;
-    border:1px solid #e5e7eb;
+    border:1px solid #f3f4f6;
     padding:25px;
-    border-radius:12px;
+    border-radius:14px;
     margin-top:20px;
     transition:0.3s ease;
 }
 
 .card:hover{
-    box-shadow:0 5px 20px rgba(0,0,0,0.05);
+    box-shadow:0 8px 25px rgba(0,0,0,0.05);
     border-color:var(--accent);
 }
 
@@ -87,14 +95,15 @@ ul{
 .skill-pill{
     display:inline-block;
     padding:8px 14px;
-    background:var(--light);
+    background:#fff7ed;
     border-radius:8px;
     margin:5px;
     font-size:0.85rem;
     font-weight:600;
+    color:#c2410c;
 }
 
-/* VIDEO STYLING */
+
 .video-wrapper{
     text-align:center;
     margin-top:30px;
@@ -105,8 +114,8 @@ ul{
     margin:auto;
     border-radius:15px;
     overflow:hidden;
-    box-shadow:0 15px 35px rgba(0,0,0,0.15);
-    border:4px solid #fff;
+    box-shadow:0 15px 35px rgba(0,0,0,0.12);
+    border:3px solid var(--accent);
 }
 
 video{
@@ -124,11 +133,10 @@ video{
 
 <header>
     <h1>ANAS PANSARI</h1>
-    <p>Diploma in ICT Applications Development Student</p>
+    <p><strong>Diploma in ICT Applications Development Student</strong></p>
     <p>📍 18 Flat Road Rylands Estate Athlone 7764</p>
     <p>📧 230195342@mycput.ac.za | 📞 0611299199</p>
 </header>
-
 
 <h2>Professional Summary</h2>
 <div class="card">
@@ -140,7 +148,6 @@ video{
     </p>
 </div>
 
-
 <h2>Technical Skills</h2>
 <div class="card">
     <span class="skill-pill">Java Programming</span>
@@ -150,16 +157,15 @@ video{
     <span class="skill-pill">PHP</span>
 </div>
 
-
 <h2>Mock Interview Video</h2>
 <div class="video-wrapper">
     <div class="video-container">
         <video controls>
             <source src="MockInterview.mp4" type="video/mp4">
+            Your browser does not support the video tag.
         </video>
     </div>
 </div>
-
 
 <h2>Projects</h2>
 
@@ -191,7 +197,6 @@ video{
     </ul>
 </div>
 
-
 <h2>Work Experience</h2>
 <div class="card">
     <span class="date">2021 – Present (Part-Time)</span>
@@ -204,7 +209,6 @@ video{
     </ul>
 </div>
 
-
 <h2>Education</h2>
 <div class="card">
     <p><strong>Diploma in ICT Applications Development</strong><br>
@@ -213,7 +217,6 @@ video{
     <p><strong>National Senior Certificate (NSC)</strong><br>
     Rylands High School – 2022</p>
 </div>
-
 
 <h2>References</h2>
 <div class="card">
@@ -230,3 +233,4 @@ video{
 
 </body>
 </html>
+
