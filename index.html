@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Anas Pansari | Professional Portfolio</title>
+
+<style>
+:root{
+    --primary:#111827;
+    --accent:#2563eb;
+    --text:#1f2937;
+    --muted:#6b7280;
+    --light:#f3f4f6;
+}
+
+body{
+    font-family:'Segoe UI',Roboto,Arial,sans-serif;
+    background:#ffffff;
+    color:var(--text);
+    max-width:1000px;
+    margin:auto;
+    padding:20px;
+    line-height:1.6;
+}
+
+header{
+    text-align:center;
+    padding:50px 20px;
+    border-bottom:3px solid var(--accent);
+}
+
+header h1{
+    font-size:2.8rem;
+    margin:0;
+    letter-spacing:-1px;
+    color:var(--primary);
+}
+
+header p{
+    color:var(--muted);
+    margin:8px 0;
+    font-size:0.95rem;
+}
+
+h2{
+    margin-top:50px;
+    font-size:0.9rem;
+    text-transform:uppercase;
+    letter-spacing:2px;
+    color:var(--accent);
+    border-bottom:1px solid #e5e7eb;
+    padding-bottom:10px;
+}
+
+.card{
+    background:#ffffff;
+    border:1px solid #e5e7eb;
+    padding:25px;
+    border-radius:12px;
+    margin-top:20px;
+    transition:0.3s ease;
+}
+
+.card:hover{
+    box-shadow:0 5px 20px rgba(0,0,0,0.05);
+    border-color:var(--accent);
+}
+
+.grid{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:20px;
+}
+
+ul{
+    padding-left:20px;
+}
+
+.date{
+    font-size:0.8rem;
+    color:var(--accent);
+    font-weight:bold;
+    text-transform:uppercase;
+}
+
+.skill-pill{
+    display:inline-block;
+    padding:8px 14px;
+    background:var(--light);
+    border-radius:8px;
+    margin:5px;
+    font-size:0.85rem;
+    font-weight:600;
+}
+
+/* VIDEO STYLING */
+.video-wrapper{
+    text-align:center;
+    margin-top:30px;
+}
+
+.video-container{
+    max-width:500px;
+    margin:auto;
+    border-radius:15px;
+    overflow:hidden;
+    box-shadow:0 15px 35px rgba(0,0,0,0.15);
+    border:4px solid #fff;
+}
+
+video{
+    width:100%;
+    display:block;
+}
+
+@media(max-width:700px){
+    .grid{grid-template-columns:1fr;}
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>ANAS PANSARI</h1>
+    <p>Diploma in ICT Applications Development Student</p>
+    <p>📍 18 Flat Road Rylands Estate Athlone 7764</p>
+    <p>📧 230195342@mycput.ac.za | 📞 0611299199</p>
+</header>
+
+<!-- PROFESSIONAL SUMMARY -->
+<h2>Professional Summary</h2>
+<div class="card">
+    <p>
+        Motivated third-year Information Technology student seeking a 
+        <strong>Work Integrated Learning (WIL)</strong> opportunity in software development or IT support.
+        Keen to utilize programming, database management, and analytical problem-solving skills
+        within a professional setting while gaining valuable hands-on industry exposure.
+    </p>
+</div>
+
+<!-- TECHNICAL SKILLS -->
+<h2>Technical Skills</h2>
+<div class="card">
+    <span class="skill-pill">Java Programming</span>
+    <span class="skill-pill">Object Oriented Programming (OOP)</span>
+    <span class="skill-pill">SQL & Database Management</span>
+    <span class="skill-pill">HTML & Web Development</span>
+    <span class="skill-pill">PHP</span>
+</div>
+
+<!-- MOCK INTERVIEW VIDEO -->
+<h2>Mock Interview Video</h2>
+<div class="video-wrapper">
+    <div class="video-container">
+        <video controls>
+            <source src="MockInterview.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
+</div>
+
+<!-- PROJECTS -->
+<h2>Projects</h2>
+
+<div class="card">
+    <span class="date">Car Voting System</span>
+    <h3>Java, Swing GUI, Sockets</h3>
+    <ul>
+        <li>Developed a client-server voting system for motoring journalists.</li>
+        <li>Implemented Java Swing GUI and socket-based server.</li>
+        <li>Applied OOP principles and generated automated voting results.</li>
+    </ul>
+</div>
+
+<div class="card">
+    <span class="date">GGG Website</span>
+    <h3>PHP, HTML, CSS, MySQL</h3>
+    <ul>
+        <li>Developed an online produce marketplace with shopping cart functionality.</li>
+        <li>Integrated database systems for product management and order tracking.</li>
+    </ul>
+</div>
+
+<div class="card">
+    <span class="date">E-Commerce Website</span>
+    <h3>HTML, CSS, JavaScript</h3>
+    <ul>
+        <li>Created a full online store with authentication and checkout system.</li>
+        <li>Applied best practices for usability and front-end design.</li>
+    </ul>
+</div>
+
+<!-- WORK EXPERIENCE -->
+<h2>Work Experience</h2>
+<div class="card">
+    <span class="date">2021 – Present (Part-Time)</span>
+    <h3>General Manager</h3>
+    <p><strong>Junction Cosmetics</strong></p>
+    <ul>
+        <li>Oversaw daily retail operations ensuring smooth performance.</li>
+        <li>Supervised and supported a team of 8 employees.</li>
+        <li>Managed business operations and improved workflow efficiency.</li>
+    </ul>
+</div>
+
+<!-- EDUCATION -->
+<h2>Education</h2>
+<div class="card">
+    <p><strong>Diploma in ICT Applications Development</strong><br>
+    Cape Peninsula University of Technology – 3rd Year (Present)</p>
+    <hr>
+    <p><strong>National Senior Certificate (NSC)</strong><br>
+    Rylands High School – 2022</p>
+</div>
+
+<!-- REFERENCES -->
+<h2>References</h2>
+<div class="card">
+    <p><strong>Mehboob Pansari</strong> – Junction Cosmetics<br>
+    📞 0721834362</p>
+    <hr>
+    <p><strong>Zaid Pansari</strong> – Joe & Coe<br>
+    📞 0617531892</p>
+</div>
+
+<footer style="text-align:center; margin-top:60px; font-size:0.8rem; color:#6b7280;">
+© 2026 Anas Pansari | ICT Portfolio
+</footer>
+
+</body>
+</html>
