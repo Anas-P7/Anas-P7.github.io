@@ -66,12 +66,16 @@ Through academic and personal projects, I have developed client-server applicati
 **Result:** With my learning and understanding I eventually created a well organized portfolio.
 
 ### 🎤 Reflection on Mock Interview Video (Star Method)
+
 **Situation:** 
  I completed a mock interview to simulate a real job environment.
+ 
 **Task:** 
  I needed to communicate clearly and dress professionally.
+ 
 **Action:** 
  I prepared questions and practiced them ensuring I am confident.
+ 
 **Result:** 
  I gained experience on how to prepare for interviews which improved my communication and confidence.
 
