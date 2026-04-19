@@ -1,9 +1,9 @@
 # 📍Digital Portfolio: Anas Pansari CV
 ## 📞 Personal Details
-Name: Anas Pansari
-Student Email: 230195342@mycput.ac.za
-LinkedIn: https://www.linkedin.com/in/anas-pansari-0415382b9/
-Cape Town, South Africa
+-Name: Anas Pansari
+-Student Email: 230195342@mycput.ac.za
+-LinkedIn: https://www.linkedin.com/in/anas-pansari-0415382b9/
+-Cape Town, South Africa
 
 ## 👤About Me
 I am a third year student who is currently studying a diploma in ICT Applications Development.Through my experience I have developed a strong foundation in software development and systems design. I am passionate about developing reliable, scalable and user-focused solutions that addresses real-world challenges.
@@ -66,10 +66,14 @@ Through academic and personal projects, I have developed client-server applicati
 **Result:** With my learning and understanding I eventually created a well organized portfolio.
 
 ### 🎤 Reflection on Mock Interview Video (Star Method)
-**Situation:** I completed a mock interview to simulate a real job environment.
-**Task:** I needed to communicate clearly and dress professionally.
-**Action:** I prepared questions and practiced them ensuring I am confident.
-**Result:** I gained experience on how to prepare for interviews which improved my communication and confidence.
+**Situation:** 
+ I completed a mock interview to simulate a real job environment.
+**Task:** 
+ I needed to communicate clearly and dress professionally.
+**Action:** 
+ I prepared questions and practiced them ensuring I am confident.
+**Result:** 
+ I gained experience on how to prepare for interviews which improved my communication and confidence.
 
 ### 🌐 Reflection on Github Pages (Star Method)
 **Situation:** I had to create and publish my portfolio through Github.
