@@ -60,10 +60,18 @@ Through academic and personal projects, I have developed client-server applicati
 ## 🧠 Reflections
 
 ### 💻 Reflection on coding in Markdown (Star Method)
-**Situation:** I was required to create a portfolio using Markdown to showcase my CV.
-**Task:** I never had experience using Markdown Language so I had to learn it and apply it effectively.
-**Action:** I went over textbook slides and done my research on the basics and how to use it effectively and structure my portfolio.
-**Result:** With my learning and understanding I eventually created a well organized portfolio.
+
+**Situation:** 
+ I was required to create a portfolio using Markdown to showcase my CV.
+ 
+**Task:**
+ I never had experience using Markdown Language so I had to learn it and apply it effectively.
+ 
+**Action:**
+ I went over textbook slides and done my research on the basics and how to use it effectively and structure my portfolio.
+ 
+**Result:** 
+ With my learning and understanding I eventually created a well organized portfolio.
 
 ### 🎤 Reflection on Mock Interview Video (Star Method)
 
@@ -80,10 +88,18 @@ Through academic and personal projects, I have developed client-server applicati
  I gained experience on how to prepare for interviews which improved my communication and confidence.
 
 ### 🌐 Reflection on Github Pages (Star Method)
-**Situation:** I had to create and publish my portfolio through Github.
-**Task:** I needed to deploy it using Github Pages.
-**Action:** I created my repository and ensure the website was accessible.
-**Result:** I created and successfully launched the website showcasing my portfolio.
+
+**Situation:** 
+ I had to create and publish my portfolio through Github.
+
+**Task:** 
+ I needed to deploy it using Github Pages.
+
+**Action:** 
+ I created my repository and ensure the website was accessible.
+
+**Result:** 
+ I created and successfully launched the website showcasing my portfolio.
 
 
 
