@@ -31,7 +31,7 @@ I am seeking a **Work Integrated Learning (WIL)** opportunity in software develo
   <video src="MockInterview.mp4" width="350" controls style="border-radius: 20px; border: 3px solid #111827;">
   </video>
 </div>
-👉 Click to view full demo: https://Anas-P7.github.io
+
 
 ## Work Experience
 
