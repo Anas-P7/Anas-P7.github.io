@@ -57,8 +57,7 @@ Through academic and personal projects, I have developed client-server applicati
   
 ## 🎥 Mock Interview Video
 
-<video width="100%" controls>
-  <source src="https://raw.githubusercontent.com/Anas-P7/Anas-P7.github.io/main/MockInterview.mp4" type="video/mp4">
+👉 Click to view full demo: https://Anas-P7.github.io
 
 </video>
 
