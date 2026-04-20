@@ -12,14 +12,17 @@ I am a motivated third-year Information Technology student with a strong passion
 I am seeking a **Work Integrated Learning (WIL)** opportunity in software development or IT support. I am keen to utilize programming, database management, and analytical problem-solving skills within a professional setting while gaining valuable hands-on industry exposure.
 
 
-
 ## Technical Skills
-* **Java Programming**
-* **Object Oriented Programming (OOP)**
-* **SQL & Database Management**
-* **HTML & Web Development**
-* **JavaScript**
-* **PHP**
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+</p>
+
 
 ## Mock Interview Video
 <div align="center">
