@@ -2,8 +2,10 @@
 **ICT Applications Development Student**
 
 📍 Cape Town, South Africa  
-📧 [anaspansari184@gmail.com](mailto:anaspansari184@gmail.com) | 📧 [230195342@mycput.ac.za](mailto:230195342@mycput.ac.za) | 📞 0611299199
-LinkedIn: https://www.linkedin.com/in/anas-pansari-0415382b9/
+- 📧 **Email:** [anaspansari184@gmail.com](mailto:anaspansari184@gmail.com)
+- 📧 **Student Email:** [230195342@mycput.ac.za](Studentemail:230195342@mycput.ac.za)
+- 📞 **Phone:** 0611299199
+- 💼 **LinkedIn:** [View Profile](https://www.linkedin.com/in/anas-pansari-0415382b9/)
 
 
 
