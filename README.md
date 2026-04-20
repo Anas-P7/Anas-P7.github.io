@@ -1,8 +1,11 @@
 # 📍Digital Portfolio: Anas Pansari CV
 ## 📞 Personal Details
 -Name: Anas Pansari
+
 -Student Email: 230195342@mycput.ac.za
+
 -LinkedIn: https://www.linkedin.com/in/anas-pansari-0415382b9/
+
 -Cape Town, South Africa
 
 ## 👤About Me
