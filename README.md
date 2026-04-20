@@ -57,8 +57,10 @@ Through academic and personal projects, I have developed client-server applicati
   
 ## 🎥 Mock Interview Video
 
-[![YouTube](https://img.icons8.com/color/48/youtube-play.png)](https://youtu.be/_brsj-MSmng) 
-[Watch My Video Here](https://youtu.be/_brsj-MSmng) 
+<video width="100%" controls>
+  <source src="https://raw.githubusercontent.com/Anas-P7/Anas-P7.github.io/main/MockInterview.mp4" type="video/mp4">
+
+</video>
 
 ## 🧠 Reflections
 
