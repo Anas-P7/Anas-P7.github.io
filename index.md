@@ -29,7 +29,6 @@ I am seeking a **Work Integrated Learning (WIL)** opportunity in software develo
 ## Mock Interview Video
 <div align="center">
   <video src="MockInterview.mp4" width="350" controls style="border-radius: 20px; border: 3px solid #111827;">
-    Your browser does not support the video tag.
   </video>
 </div>
 
