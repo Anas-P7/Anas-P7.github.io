@@ -1,4 +1,4 @@
-# 📍Digital Portfolio: Anas Pansari CV
+# 📍Digital Portfolio: Anas Pansari 
 ## 📞 Personal Details
 Name: Anas Pansari
 
