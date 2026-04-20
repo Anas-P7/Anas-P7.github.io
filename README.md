@@ -1,12 +1,12 @@
 # 📍Digital Portfolio: Anas Pansari CV
 ## 📞 Personal Details
--Name: Anas Pansari
+Name: Anas Pansari
 
--Student Email: 230195342@mycput.ac.za
+Student Email: 230195342@mycput.ac.za
 
--LinkedIn: https://www.linkedin.com/in/anas-pansari-0415382b9/
+LinkedIn: https://www.linkedin.com/in/anas-pansari-0415382b9/
 
--Cape Town, South Africa
+Cape Town, South Africa
 
 ## 👤About Me
 I am a third year student who is currently studying a diploma in ICT Applications Development.Through my experience I have developed a strong foundation in software development and systems design. I am passionate about developing reliable, scalable and user-focused solutions that addresses real-world challenges.
