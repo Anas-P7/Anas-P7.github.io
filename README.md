@@ -34,18 +34,6 @@ Through academic and personal projects, I have developed client-server applicati
 - Web Development
 - PHP
 
-## 📁 Projects
-- **Car Voting System (Java, Sockets, GUI)**
-  
-  Developed a client-server voting system which generated results
-
-- **GGG Website (PHP,MySQL)**
-  
-  Developed a market place system with database integration.
-
-- **E-Commerce Website (HTML,CSS,JavaScript)**
-  
-  Created a functional ecommerce store selling toys,cutlery,home decor.
 
 ## 💼 Experience
 - General Manager - Junction Cosmetics (2021- Present)
