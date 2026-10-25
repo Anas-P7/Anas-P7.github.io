@@ -534,4 +534,51 @@ Trello board: https://trello.com/b/jeBprN9z/perfume-velour-essence
 **Result:** The sprint backlog provided a clear plan for organising the customer survey process. I learned how breaking a larger activity into smaller tasks can improve coordination and accountability. In future sprints, I would encourage the team to update task statuses regularly so that progress and delays are easier to identify.
 
 
+### 5. Agile Logbook
+
+#### Evidence
+
+The Agile Logbook documented the team's progress, completed activities, upcoming tasks and challenges during the Velour Essence project. It included a taskboard with backlog, in-progress and completed activities, as well as daily logbook entries.
+
+**Taskboard Summary**
+
+| Category | Recorded Activities |
+|---|---|
+| Product Backlog | Finalise the business case, define website requirements, develop wireframes, create a customer survey, finalise branding guidelines and prepare the project presentation. |
+| In Progress (at the time of the logbook) | Website wireframe design, customer survey and brand refinement. |
+| Completed (at the time of the logbook) | Business idea finalised, target audience identified, market research completed and project planning completed. |
+
+**Daily Logbook Summary**
+
+| Date | Progress and Activities | Challenges |
+|---|---|---|
+| 14 July 2026 | Reviewed project objectives, target audience, brand value proposition and website requirements. | Deciding which website features to prioritise. |
+| 15 July 2026 | Conducted competitor research and discussed customer survey questions. | Coordinating team feedback and agreeing on initial website features. |
+| 16 July 2026 | Reviewed the survey, updated the product backlog and discussed branding, suppliers and website functionality. | Minor website design adjustments. |
+
+The logbook also recorded upcoming activities, including further competitor analysis, website planning, branding refinement and preparation for the next sprint review.
+
+**Final Project Outcome**
+
+Since the initial logbook entries, the team has continued developing the Velour Essence project. The website has now been built, and its implemented features are working. The project progressed beyond the initial planning, research and wireframing stages to deliver a functioning website.
+
+**Supporting Evidence:**
+
+<img width="693" height="280" alt="image" src="https://github.com/user-attachments/assets/3fbd2318-9d82-4db7-8170-7824ac856900" />
+<img width="692" height="499" alt="image" src="https://github.com/user-attachments/assets/917a7e16-38ab-4c28-bc8f-53b42945ee9e" />
+<img width="677" height="570" alt="image" src="https://github.com/user-attachments/assets/e272ed5a-6f41-4c81-9feb-36481ddf9a44" />
+
+
+#### Reflection — STAR
+
+**Situation:** During the Velour Essence project, our team needed to monitor progress, organise activities and identify challenges that could affect the development of our website.
+
+**Task:** As a team member responsible for research and marketing activities, I needed to contribute to the project and keep track of relevant tasks and priorities.
+
+**Action:** The Agile Logbook recorded completed work, upcoming activities and impediments. It helped document challenges such as prioritising website features and coordinating feedback between team members. The team continued progressing through the project until the website was built and its implemented features were working.
+
+**Result:** The logbook provided a record of the team's progress, while the completed website demonstrated the outcome of our work. I learned that regularly documenting progress, identifying blockers and reviewing priorities supports communication, accountability and continuous improvement. In future projects, I would ensure that progress updates are recorded consistently and that blockers are addressed as early as possible.
+
+
+
 
