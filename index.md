@@ -496,5 +496,42 @@ Trello board: https://trello.com/b/jeBprN9z/perfume-velour-essence
 
 **Result:** The backlog provided a structured overview of the work required and helped the team understand what needed attention throughout the project. I learned that a clear, prioritised backlog supports teamwork, accountability and project organisation. I would improve this process by reviewing priorities regularly and updating task statuses consistently.
 
+### 4. Sprint Backlog
+
+#### Evidence
+
+The sprint backlog for Velour Essence was managed using Trello. Tasks were divided between team members, with deadlines and specific responsibilities to help the team work towards each sprint goal.
+
+**Sprint 8: Customer Survey**
+
+**Sprint Goal:** Prepare and distribute a customer survey to gather feedback that could inform the website and marketing strategy.
+
+| Task | Assigned To | Due Date | Status |
+|---|---|---|---|
+| Define survey objectives | M. Jawaad Allie | 4 September 2026 | To Do |
+| Draft survey questions | Imaad Peterson | 4 September 2026 | To Do |
+| Build the survey | Zia Modarrisi | 7 September 2026 | To Do |
+| Test the survey | Dayyan Francis | 7 September 2026 | To Do |
+| Distribute the survey | Anas Pansari and M. Jawaad Allie | 8 September 2026 | To Do |
+| Monitor and collect responses | M. Jawaad Allie | 8 September 2026 | To Do |
+
+The sprint backlog broke the customer survey activity into manageable tasks and assigned responsibilities to team members. According to the Trello board, these tasks were marked as To Do when the board details were reviewed.
+
+**Supporting evidence:**  
+<img width="1074" height="777" alt="image" src="https://github.com/user-attachments/assets/33f2de01-e8a6-4bb3-927c-e3ec686c2e2f" />
+
+
+Trello board: https://trello.com/b/jeBprN9z/perfume-velour-essence
+
+#### Reflection — STAR
+
+**Situation:** Our team needed customer feedback to better understand the target audience and inform decisions about the Velour Essence website and marketing strategy.
+
+**Task:** As part of the Research and Marketing role, I was assigned to help distribute the customer survey and support the collection of responses.
+
+**Action:** The sprint plan divided the survey process into clear tasks, including preparing questions, testing the survey and distributing it. Trello helped show who was responsible for each task and when it was due.
+
+**Result:** The sprint backlog provided a clear plan for organising the customer survey process. I learned how breaking a larger activity into smaller tasks can improve coordination and accountability. In future sprints, I would encourage the team to update task statuses regularly so that progress and delays are easier to identify.
+
 
 
