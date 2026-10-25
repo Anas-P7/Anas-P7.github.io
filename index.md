@@ -113,7 +113,7 @@ The following sections provide evidence of my understanding and application of A
 - **Project Name:**  Perfume Velour Essence
 - **Project:** Agile Team Charter
 - **Methodology:** Agile
-- **Original Charter Date:** 4 May 2025
+- **Original Charter Date:** 4 May 2026
 - **Team Size:** Five members
 
 ### 1.2 Team Members
