@@ -83,3 +83,27 @@ I am seeking a **Work Integrated Learning (WIL)** opportunity in software develo
 
 *© 2026 Anas Pansari | ICT Portfolio*
 
+
+# 🚀 Project Presentation 3 — Agile Portfolio
+
+## Velour Essence — Perfume E-Commerce Website
+
+### Introduction
+
+This section of my digital portfolio presents the Agile project work completed by our team for Velour Essence, a perfume e-commerce business concept. It documents how we planned and organised the project, identified user requirements, prioritised tasks, managed sprint activities, and reflected on our teamwork and progress.
+
+The following sections provide evidence of my understanding and application of Agile project management principles, alongside reflections using the STAR method.
+
+## Agile Project Evidence
+
+- Agile Team Charter
+- User Stories and Tasks
+- Product Backlog
+- Sprint Backlog
+- Agile Logbook
+
+## Reflections
+
+This section will include STAR-based reflections on my contributions, teamwork, challenges, problem-solving, and learning throughout the project.
+
+
