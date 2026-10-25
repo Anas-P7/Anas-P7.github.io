@@ -508,12 +508,12 @@ The sprint backlog for Velour Essence was managed using Trello. Tasks were divid
 
 | Task | Assigned To | Due Date | Status |
 |---|---|---|---|
-| Define survey objectives | M. Jawaad Allie | 4 September 2026 | To Do |
-| Draft survey questions | Imaad Peterson | 4 September 2026 | To Do |
-| Build the survey | Zia Modarrisi | 7 September 2026 | To Do |
-| Test the survey | Dayyan Francis | 7 September 2026 | To Do |
-| Distribute the survey | Anas Pansari and M. Jawaad Allie | 8 September 2026 | To Do |
-| Monitor and collect responses | M. Jawaad Allie | 8 September 2026 | To Do |
+| Define survey objectives | M. Jawaad Allie | 4 September 2026 | Completed |
+| Draft survey questions | Imaad Peterson | 4 September 2026 | Completed |
+| Build the survey | Zia Modarrisi | 7 September 2026 | Completed |
+| Test the survey | Dayyan Francis | 7 September 2026 | Completed |
+| Distribute the survey | Anas Pansari and M. Jawaad Allie | 8 September 2026 | Completed |
+| Monitor and collect responses | M. Jawaad Allie | 8 September 2026 | Completed |
 
 The sprint backlog broke the customer survey activity into manageable tasks and assigned responsibilities to team members. According to the Trello board, these tasks were marked as To Do when the board details were reviewed.
 
