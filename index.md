@@ -84,6 +84,7 @@ I am seeking a **Work Integrated Learning (WIL)** opportunity in software develo
 *© 2026 Anas Pansari | ICT Portfolio*
 
 
+
 # 🚀 Project Presentation 3 — Agile Portfolio
 
 ## Velour Essence — Perfume E-Commerce Website
@@ -102,8 +103,398 @@ The following sections provide evidence of my understanding and application of A
 - Sprint Backlog
 - Agile Logbook
 
-## Reflections
 
-This section will include STAR-based reflections on my contributions, teamwork, challenges, problem-solving, and learning throughout the project.
+---
+
+## 1. Agile Team Charter
+
+### 1.1 Project Information
+
+- **Project Name:**  Perfume Velour Essence
+- **Project:** Agile Team Charter
+- **Methodology:** Agile
+- **Original Charter Date:** 4 May 2025
+- **Team Size:** Five members
+
+### 1.2 Team Members
+
+| Team Member | Student Number | Role |
+|---|---|---|
+| Anas Pansari | 230195342 | Research, Marketing and Development |
+| Imaad Peterson | 230166040 | Product Owner |
+| Zia Modarrisi | 230671942 | Designer,Developer |
+| Dayyaan Francis | 222277343 | Developer |
+| M. Jawaad Allie | 230472125 | Scrum Master |
+
+### 1.3 Team Purpose and Objectives
+
+The main objective of our team is to design and develop a high-quality, customer-centred system for Velour Essence using Agile methodologies.
+
+Velour Essence is a custom perfume creation business that allows customers to create personalised fragrances both in-store and online. The system aims to allow customers to select scent combinations, customise their perfumes and place orders conveniently.
+
+The project aims to provide an affordable luxury experience, improve customer satisfaction and support efficient business operations.
+
+### 1.4 Vision Statement
+
+Our vision is to create an innovative and accessible perfume platform that empowers customers to express their individuality through custom-made fragrances. We aim to position Velour Essence as a leading brand in affordable luxury perfumes through personalisation, quality and a unique customer experience.
+
+### 1.5 Team Roles and Responsibilities
+
+Each team member has a defined role to support the project objectives and ensure that the team covers business planning, organisation, design, development and marketing.
+
+**Product Owner — Imaad Peterson**
+
+The Product Owner is responsible for the product strategy and vision. This role involves deciding what the final product should achieve and ensuring that it provides value to users.
+
+**Scrum Master — M. Jawaad Allie**
+
+The Scrum Master focuses on the Agile process, team organisation and project timeline. This role includes helping the team remain organised and ensuring that meetings and project activities remain effective.
+
+**Designer,Developer — Zia Modarrisi**
+
+The Designer and Developer is responsible for the user experience and visual layouts. This includes ensuring that the product is intuitive, accessible and easy for customers to use.
+
+**Developer — Dayyaan Francis**
+
+The Developer is responsible for the technical implementation of the project, writing code and building the functional components of the website.
+
+**Research, Marketing and Developer — Anas Pansari**
+
+My role focuses on market research, competitor analysis, gathering user feedback and presenting the project to its intended audience. This involves researching the market, identifying opportunities and helping ensure that the project remains relevant to customer needs. I also assisted in the development of the website with my team members.
+
+Although each member has a specific area of responsibility, the team is expected to collaborate, exchange ideas and support one another when required.
+
+### 1.6 Team Values and Principles
+
+Our team charter identifies the following core values:
+
+**Collaboration**
+
+We work together by sharing ideas, using each member's strengths and providing assistance when needed. Collaboration helps us consider different perspectives when making project decisions.
+
+**Respect**
+
+Every team member's contribution should be heard and considered. Respectful communication helps create an environment where members can share opinions and discuss challenges constructively.
+
+**Transparency**
+
+Team members should communicate progress, responsibilities and problems openly. This helps the team identify issues early and understand what needs attention.
+
+**Accountability**
+
+Each member is responsible for completing their assigned tasks within agreed timelines and communicating any difficulties that could affect progress.
+
+**Creativity**
+
+We encourage new ideas and creative approaches to developing the Velour Essence brand and creating a distinctive customer experience.
+
+### 1.7 Agile Principles
+
+The team applies the following Agile principles to guide its work:
+
+- **Customer satisfaction:** Focus on creating a product that meets customer needs and provides value.
+- **Adaptability:** Adjust priorities and approaches when requirements or project circumstances change.
+- **Continuous improvement:** Review progress and identify opportunities to improve the team's working methods.
+- **Team collaboration:** Communicate regularly, share knowledge and work together to resolve problems.
+- **Working product focus:** Progress towards delivering functional parts of the product that can be reviewed and improved.
+
+These principles support an iterative approach in which the team can learn from feedback and refine the project as work progresses.
+
+### 1.8 Communication Plan
+
+Effective communication is important for coordinating tasks, sharing updates and resolving issues.
+
+Our charter identifies the following communication methods:
+
+- **WhatsApp:** Used for daily communication, quick updates and reminders.
+- **Trello:** Used to track tasks, assign responsibilities and monitor progress across sprints.
+- **Discord:** Used to clarify ideas and make decisions.
+
+**Frequency of communication**
+
+The team communicates daily through WhatsApp for coordination and updates. Informal check-ins take place during the week depending on the workload and deadlines. The charter also establishes at least one meeting per week, being online via Discord or WhatsApp, to review progress, discuss challenges and plan the next steps.
+
+**Handling issues and delays**
+
+Members are expected to inform the group as soon as possible if they experience a problem or delay. The team can then discuss solutions and reassign tasks where necessary to help meet deadlines.
+
+**Communication expectations**
+
+All members should respond within a reasonable time, communicate respectfully and keep the group informed about their progress.
+
+### 1.9 SMART Goals
+
+The team established the following SMART goals for Velour Essence:
+
+**Specific**
+
+Develop and launch a functional e-commerce prototype for  Perfume Velour Essence, featuring a cohesive design, product catalogue and user-friendly experience.
+
+**Measurable**
+
+Complete all six planned sprints and track progress using the Trello board by monitoring assigned tasks and moving completed work into the appropriate completed status.
+
+**Achievable**
+
+Use the team's different roles — Product Owner, Scrum Master, Designer, Developer and Research & Marketing — to distribute responsibilities and reduce bottlenecks.
+
+**Relevant**
+
+Developing the platform supports the  Perfume Velour Essence business concept and provides a practical project through which the team can apply its planning, design, development and collaboration skills.
+
+**Time-bound**
+
+Complete the planned project deliverables and documentation by the end of Sprint 6.
+
+### 1.10 Project Milestones
+
+The charter divides the project into six planned milestones.
+
+**Milestone 1: Project Initiation and Planning — Sprint 1**
+
+- Complete the Agile Team Charter and finalise team roles.
+- Set up the Trello board and establish communication channels.
+- Organise the initial project plan.
+
+**Milestone 2: Vision and Market Alignment — Sprint 2**
+
+- Conduct competitor analysis and define the target audience.
+- Finalise the core product vision and business goals.
+- Use market research to support project planning.
+
+**Milestone 3: Design and Prototyping — Sprint 3**
+
+- Refine the brand identity, logo and overall aesthetic.
+- Complete the website wireframes and user experience layouts.
+- Establish a clear design direction for development.
+
+**Milestone 4: Technical Development — Sprint 4**
+
+- Build the core website infrastructure.
+- Translate approved designs into functional website components.
+- Set up the required technical elements.
+
+**Milestone 5: Integration and Refinement — Sprint 5**
+
+- Integrate the website components and align the implementation with the approved designs.
+- Review the website against the product vision.
+- Prepare marketing materials that align with the developed product.
+
+**Milestone 6: Final Testing and Launch — Sprint 6**
+
+- Conduct final reviews and testing across the team.
+- Review outstanding Trello tasks and checklists.
+- Prepare the final project submission and presentation.
+
+These milestones provide a structured plan for progressing from initial research and planning towards development, refinement and final presentation.
+
+### 1.11 Team Principles for Working Together
+
+Our charter establishes practical principles to support effective teamwork.
+
+**No Silos**
+
+Team members can provide feedback beyond their assigned specialities. For example, the Developer can provide feedback on design decisions, and the Designer can contribute ideas that influence implementation.
+
+**Quick Checks**
+
+The team favours short, focused discussions for resolving straightforward issues and sharing updates when appropriate.
+
+**Clear Ownership**
+
+Responsibility for decisions should be understood. The charter identifies the relevant role owner for their area of responsibility to reduce confusion and avoid unnecessary delays.
+
+These principles encourage collaboration while maintaining clear responsibilities.
+
+### 1.12 Charter Review and Continuous Improvement
+
+The Agile Team Charter provides a shared reference for the team's purpose, roles, values, communication arrangements and project milestones.
+
+As the project develops, the team can refer to the charter when reviewing responsibilities, addressing communication problems and deciding how to organise its work. Reviewing these arrangements helps keep the team aligned with the project objectives.
+
+### 1.13 Agile Team Charter Evidence
+
+The evidence for this section is based on our original Agile Team Charter, dated 4 May 2025. The document records our project purpose, vision, team roles, values, communication plan, SMART goals and six planned milestones.
+
+It demonstrates how our team established a shared direction and divided responsibilities for the Velour Essence project.
+
+---
+
+### 1.14 Reflection on the Agile Team Charter — STAR Method
+
+**Situation**
+
+During the Perfume Velour Essence project, our team needed to organise the work required to develop a custom perfume e-commerce concept. The project involved several areas, including market research, product planning, user experience design, technical development and marketing. With five team members working across these areas, it was important to establish a shared vision and clarify individual responsibilities.
+
+**Task**
+
+My role was Research, Marketing and assisting in development. I was responsible for contributing to market research, competitor analysis, gathering user feedback and considering how the project could be presented to its intended audience. I also needed to understand how my responsibilities connected with the work being carried out by the other team members. I also assisted with the development if the website.
+
+**Action**
+
+Our Agile Team Charter documented the project's purpose, vision, team roles, core values, communication methods and planned milestones. It established WhatsApp as a communication channel, Trello as a task-tracking tool and regular meetings as a way to review progress and discuss challenges.
+
+I used my understanding of the charter to recognise the importance of market research and competitor analysis in supporting project decisions. The charter also helped me understand how my Research and Marketing role contributed to the wider project, alongside the Product Owner's planning, the Scrum Master's coordination, the Designer's layouts and the Developer's technical implementation.
+
+**Result**
+
+The charter provided a shared reference for understanding the project's objectives and how the team's different responsibilities contributed to the overall goal. It also demonstrated the importance of communication, accountability, collaboration and clear task ownership when working on a group project.
+
+Through this process, I gained a better understanding of how Agile principles can be applied to organise teamwork and coordinate different areas of a project. I also recognised that defining roles alone is not enough; team members must communicate regularly and raise problems early to keep work moving forward.
+
+In future projects, I would use the charter as an active reference throughout development and review it whenever responsibilities, priorities or project requirements change. This would help me contribute more effectively to teamwork and ensure that my research and marketing activities remain aligned with the project's objectives.
+
+## 2. User Stories and Tasks
+
+### 2.1 Introduction
+
+User stories describe the features and functionality of the Velour Essence website from the customer's perspective. They help the team understand what users need and why each feature is valuable. Each user story can be divided into smaller tasks so that the team can plan, assign and track the work using Agile methods and Trello.
+
+For the Velour Essence project, user stories relate to the business objectives, target audience, website requirements, customer experience and development of an e-commerce perfume platform.
+
+### 2.2 User Stories and Task Breakdown
+
+#### User Story 1: Browse Perfumes
+
+**User Story:** As a customer, I want to browse the available perfumes so that I can discover fragrances that interest me.
+
+**Tasks:**
+- Identify the information customers need when browsing perfumes.
+- Plan the layout of the perfume catalogue.
+- Design the product listing and product details layout.
+- Review the design to ensure customers can navigate the catalogue easily.
+- Test the browsing experience once the relevant functionality is implemented.
+
+**Priority:** High
+
+**Expected Outcome:** Customers can find and explore the available perfume products easily.
+
+#### User Story 2: Discover and Customise a Fragrance
+
+**User Story:** As a customer, I want to explore fragrance options and customise my perfume so that I can create a product that suits my preferences.
+
+**Tasks:**
+- Identify the fragrance customisation requirements.
+- Research how other perfume businesses present fragrance options.
+- Plan how customers will select their preferred scent combinations.
+- Design a simple and understandable customisation process.
+- Review the proposed process against the project's vision of personalised fragrances.
+
+**Priority:** High
+
+**Expected Outcome:** The website design supports the project's goal of offering a personalised perfume experience.
+
+#### User Story 3: Understand the Brand and Products
+
+**User Story:** As a potential customer, I want to understand the Velour Essence brand and its products so that I can make an informed purchasing decision.
+
+**Tasks:**
+- Identify the information customers need about the brand.
+- Research competitor websites and their product presentation.
+- Define the content required for the website.
+- Align the website content with the brand identity and target audience.
+- Review the content for clarity and consistency.
+
+**Priority:** High
+
+**Expected Outcome:** Customers can understand the brand, its products and its value proposition.
+
+#### User Story 4: Place an Order
+
+**User Story:** As a customer, I want to place an order through the website so that I can purchase my chosen perfume conveniently.
+
+**Tasks:**
+- Identify the information required to place an order.
+- Plan the ordering process and checkout layout.
+- Identify the information needed for an order summary.
+- Design a clear and straightforward checkout experience.
+- Test the ordering process once the relevant functionality is implemented.
+
+**Priority:** High
+
+**Expected Outcome:** Customers have a clear process for ordering their selected products.
+
+#### User Story 5: Provide Customer Feedback
+
+**User Story:** As a potential customer, I want to provide feedback about perfume preferences so that the business can better understand customer needs.
+
+**Tasks:**
+- Research the target audience and customer preferences.
+- Prepare customer survey questions.
+- Review the survey questions for clarity and relevance.
+- Collect and analyse survey responses.
+- Use the findings to inform website requirements and marketing decisions.
+
+**Priority:** Medium
+
+**Expected Outcome:** Customer feedback helps the team make more informed decisions about the website and its marketing strategy.
+
+### 2.3 How User Stories Support Agile Development
+
+The user stories help translate the Velour Essence business vision into specific customer needs and potential website features. Breaking each story into tasks makes the work easier to understand, assign and monitor.
+
+The tasks can be recorded on the team's Trello board, where progress can be tracked through the relevant workflow columns. Priorities help the team focus on the most important customer requirements first. The team can also review and refine the stories as new information becomes available through competitor research, customer surveys and feedback.
+
+These user stories provide a structured breakdown of the project's requirements. The actual implementation status of each task should be verified against the team's Trello board and project files.
+
+### 2.4 STAR Reflection: User Stories and Tasks
+
+**Situation**
+
+During the Velour Essence project, our team needed to plan an e-commerce perfume website that aligned with our business vision and provided a positive customer experience. We needed to identify important website requirements and understand what our target audience would expect from the platform.
+
+**Task**
+
+My role in the team was Research and Marketing and assissting in the development. My responsibility was to contribute to understanding the target audience, researching competitors and identifying opportunities and understand the interface layout so that could help guide the project's direction. This research was relevant when identifying customer needs and developing potential user stories.
+
+**Action**
+
+I contributed to market and competitor research to identify opportunities for Velour Essence. I also participated in discussions about the website's purpose, features and customer experience. These activities helped connect the business objectives with potential website requirements.
+
+Breaking the requirements into user stories and tasks also demonstrated how a broad idea, such as offering personalised perfumes online, could be divided into smaller activities for planning and development.
+
+**Result**
+
+This process helped me understand how customer research and business objectives can inform the features planned for a website. I learned that user stories help the team focus on the value a feature should provide, while tasks make the required work more manageable. I also recognised the importance of communicating requirements clearly so that research, design and development remain aligned.
+
+In future projects, I would improve this process by ensuring that each user story has clear acceptance criteria, an agreed priority and traceable tasks on the project board. This would make it easier to determine when a story is complete and whether the delivered feature meets the customer's needs.
+
+### 3. Product Backlog
+
+#### Evidence
+
+The product backlog for Velour Essence was managed using Trello. It organised the project requirements and tasks into prioritised work items to support the development of the perfume business and its website.
+
+| ID | Product Backlog Item | Priority |
+|---|---|---|
+| PB01 | Research suppliers and compare quotations | High |
+| PB02 | Define product pricing strategy | High |
+| PB03 | Gather stakeholder and target-audience requirements | High |
+| PB04 | Define functional and non-functional requirements | High |
+| PB05 | Develop the marketing and launch strategy | Medium |
+| PB06 | Design the website sitemap and wireframes | High |
+| PB07 | Create and distribute a customer survey | Medium |
+| PB08 | Analyse survey responses and identify insights | Medium |
+| PB09 | Use research findings to recommend website and marketing improvements | Medium |
+| PB10 | Review project tasks and prepare the final presentation | High |
+
+The backlog items were organised into sprint tasks, with team members assigned responsibilities and due dates. Priorities shown above are a summary for this portfolio and may differ from the original Trello ordering.
+
+**Supporting evidence:**  
+<img width="1892" height="831" alt="image" src="https://github.com/user-attachments/assets/6bae86ce-760f-4897-bbfc-8cd0827d265b" />
+
+
+Trello board: https://trello.com/b/jeBprN9z/perfume-velour-essence
+
+#### Reflection — STAR
+
+**Situation:** Our team needed to organise the work required for the Velour Essence project, including supplier research, customer requirements, marketing, website planning and the final presentation.
+
+**Task:** My responsibility within the Research and Marketing role was to contribute to research-related activities and help ensure that relevant tasks were identified and organised.
+
+**Action:** I contributed to the project planning process by working on assigned research and marketing tasks. The Trello board helped the team organise responsibilities, track due dates and divide larger activities into manageable tasks.
+
+**Result:** The backlog provided a structured overview of the work required and helped the team understand what needed attention throughout the project. I learned that a clear, prioritised backlog supports teamwork, accountability and project organisation. I would improve this process by reviewing priorities regularly and updating task statuses consistently.
+
 
 
