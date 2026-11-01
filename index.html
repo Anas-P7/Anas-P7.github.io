@@ -373,23 +373,37 @@ reflections using the STAR method.</p>
 @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap');
  
 :root {
-    --ink: #101D35;
-    --navy: #172B4D;
-    --steel: #344F6B;
-    --blue: #6685A5;
-    --link: #587895;
-    --text: #343B46;
-    --muted: #7B8490;
-    --page: #E9EDF2;
-    --card: #FFFFFF;
-    --line: #DCE2E9;
-    --tint: #F3F6FA;
-    --shadow: 0 6px 24px rgba(16, 29, 53, 0.07);
+    --page: #0A0F1D;                      
+    --card: #111827;                      
+    --tint: rgba(255, 255, 255, 0.05);    
+    --line: rgba(255, 255, 255, 0.10);    
+    --ink: #FFFFFF;                       
+    --text: #CBD5E1;                      
+    --text-soft: #94A3B8;                 
+    --muted: #64748B;                     
+    --accent: #22D3EE;                    
+    --accent-hover: #67E8F9;              
+    --accent-border: #22D3EE80;           
+    --gold: #FCD34D;
+    --heat: linear-gradient(90deg, #000000, #22D3EE, #FCD34D);
+    --shadow: 0 8px 28px rgba(0, 0, 0, 0.45);
 }
  
 * { box-sizing: border-box; }
  
 html { scroll-behavior: smooth; }
+ 
+
+body::before {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 4px;
+    background: var(--heat);
+    z-index: 100;
+}
  
 body {
     background-color: var(--page) !important;
@@ -399,7 +413,7 @@ body {
     line-height: 1.75;
     max-width: 920px;
     margin: 0 auto !important;
-    padding: 48px 24px 72px !important;
+    padding: 56px 24px 72px !important;
     -webkit-font-smoothing: antialiased;
 }
  
@@ -416,40 +430,40 @@ h1 {
 }
  
 h2 {
-    color: var(--navy);
+    color: var(--ink);
     font-size: 1.55rem;
     font-weight: 700;
     letter-spacing: -0.01em;
     margin: 2.4rem 0 1rem;
     padding-bottom: 10px;
-    border-bottom: 2px solid var(--line);
+    border-bottom: 2px solid var(--accent);
 }
  
 h3 {
-    color: var(--blue);
+    color: var(--accent);
     font-size: 1.15rem;
     font-weight: 700;
     margin: 1.6rem 0 0.5rem;
 }
  
 h4 {
-    color: var(--steel);
+    color: var(--accent-hover);
     font-size: 1rem;
     font-weight: 700;
     margin: 1.3rem 0 0.35rem;
     padding-left: 12px;
-    border-left: 4px solid var(--blue);
+    border-left: 4px solid var(--accent);
     line-height: 1.3;
 }
  
 p { margin: 0 0 1rem; }
  
-strong { color: var(--navy); font-weight: 700; }
+strong { color: var(--ink); font-weight: 700; }
  
 
  
 a {
-    color: var(--link);
+    color: var(--accent);
     font-weight: 600;
     text-decoration: none;
     border-bottom: 1px solid transparent;
@@ -457,13 +471,13 @@ a {
 }
  
 a:hover {
-    color: var(--steel);
-    border-bottom-color: var(--steel);
+    color: var(--accent-hover);
+    border-bottom-color: var(--accent-hover);
 }
  
 a:focus-visible,
 video:focus-visible {
-    outline: 3px solid var(--blue);
+    outline: 3px solid var(--accent);
     outline-offset: 3px;
     border-radius: 4px;
 }
@@ -474,7 +488,7 @@ ul { padding-left: 1.3rem; margin: 0 0 1.2rem; }
  
 li { margin: 0.3rem 0; }
  
-li::marker { color: var(--blue); }
+li::marker { color: var(--accent); }
  
 
 ul:has(img) {
@@ -488,15 +502,17 @@ ul:has(img) {
 ul:has(img) li {
     margin: 0;
     padding: 8px 16px;
-    background: var(--card);
+    background: var(--tint);
     border: 1px solid var(--line);
     border-radius: 999px;
-    box-shadow: 0 2px 8px rgba(16, 29, 53, 0.05);
     display: inline-flex;
     align-items: center;
     gap: 8px;
     font-size: 0.95rem;
+    transition: border-color .2s ease;
 }
+ 
+ul:has(img) li:hover { border-color: var(--accent-border); }
  
 ul:has(img) li img { vertical-align: middle; }
  
@@ -507,7 +523,7 @@ video {
     max-width: 100%;
     height: auto;
     margin: 0 auto;
-    border: 3px solid var(--blue) !important;
+    border: 3px solid var(--accent-border) !important;
     border-radius: 18px !important;
     box-shadow: var(--shadow);
 }
@@ -521,11 +537,14 @@ hr {
 }
  
 hr.semester-divider {
-    border-top: 3px solid #AAB8C7;
-    border-radius: 3px;
+    border: none;
+    height: 4px;
+    background: var(--heat);
+    border-radius: 4px;
     margin: 4rem 0 3rem;
 }
  
+
  
 .assessment-section {
     background-color: var(--card);
@@ -548,11 +567,10 @@ hr.semester-divider {
  
 .assessment-section h2 {
     margin-top: 0;
-    color: var(--navy);
-    border-bottom: 2px solid var(--line);
+    color: var(--ink);
+    border-bottom: 2px solid var(--accent);
 }
  
-
 .assessment-section h3 {
     background: var(--tint);
     border-radius: 10px;
@@ -560,7 +578,6 @@ hr.semester-divider {
     margin: 1.8rem 0 0.8rem;
 }
  
-
 .assessment-section h4 + p,
 .assessment-section h4 + p + p {
     padding-left: 16px;
@@ -579,7 +596,7 @@ img.evidence-image {
     background: var(--card);
     border: 1px solid var(--line);
     border-radius: 12px;
-    box-shadow: 0 6px 18px rgba(16, 29, 53, 0.08);
+    box-shadow: var(--shadow);
 }
  
 .evidence-caption {
@@ -600,7 +617,7 @@ p > em:only-child {
 
  
 @media (max-width: 640px) {
-    body { padding: 28px 16px 56px !important; font-size: 15.5px; }
+    body { padding: 40px 16px 56px !important; font-size: 15.5px; }
     .assessment-section { padding: 22px 18px; border-radius: 14px; }
     h2 { font-size: 1.3rem; }
     ul:has(img) li { padding: 7px 13px; }
@@ -609,10 +626,10 @@ p > em:only-child {
 
  
 @media print {
-    body { background: #fff !important; max-width: none; padding: 0 !important; }
-    .assessment-section { box-shadow: none; break-inside: avoid-page; }
+    body { background: #fff !important; color: #222; max-width: none; padding: 0 !important; }
+    body::before { display: none; }
+    .assessment-section { background: #fff; box-shadow: none; break-inside: avoid-page; }
 }
-
 
     </style>
     
